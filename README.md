@@ -69,7 +69,7 @@ Brick Breaker is an Terminal game inspired from [the old brick breaker](https://
   - Ball
   - Paddle
   - Bricks - There are 4 types of bricks
-    - Red brick - Need a hit to break :pointup:
+    - Red brick - Need a hit to break :point_up:
     - Blue brick - Need 2 hits to break :v:
     - Yellow brick - Need 3 hits to break :ok_hand:
     - White brick - Unbreakable :muscle:
