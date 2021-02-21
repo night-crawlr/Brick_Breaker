@@ -91,7 +91,7 @@ Brick Breaker is an Terminal game inspired from [the old brick breaker](https://
   - 'd' - To move the paddle right
   - 'q' - To quit the game
   - '[SPACE]' - To release the ball from paddle
-  - 'p' - To pause the game
+  - 'p' - To pause the game and resume the game
   - 'f' - To move the game one-step ahead when PAUSED (note when passed the other controls excepts 'f' wont work)
 
 + ### Files
